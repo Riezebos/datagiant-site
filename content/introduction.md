@@ -4,6 +4,8 @@ date = 2020-01-28
 category = "General"
 +++
 
+![](/img/logo.svg)
+
 For the last 3 years, I've been working as a data scientist & machine learning engineer at [Celonis](https://www.celonis.com). This was a great experience! I was involved in a diverse range of projects, and learned a lot. Now, I would like to apply these learnings to help businesses become a better version of themselves, using data. If you have a business problem that could be solved with data science, let's talk! 
 
 To give an idea of what I can help with, here is an overview of some tools/techniques that I am experienced in:
